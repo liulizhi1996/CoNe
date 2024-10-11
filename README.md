@@ -1,6 +1,6 @@
 # CoNe
 
-This is the PyTorch implementation of **CoNe: A Common Neighbor-aware Link Weight Prediction Method with Simplified Graph Transformer**.
+This is the PyTorch implementation of **Common Neighbor-aware Link Weight Prediction with Simplified Graph Transformer**.
 
 ![workflow](./workflow.png)
 
